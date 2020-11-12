@@ -1,1 +1,13 @@
-init
+Entity:
+
+    1. Right entity
+    2. Not ambiguity
+
+Rules CamelCase:
+
+    1. First Common Description,
+                for example: id.., log.., ets...
+    2. Adapter Main Module,
+                for example: idTel, logVK, ets...
+    3. Funk description special,
+                for example: idTelMsg, logVKLog, ets...

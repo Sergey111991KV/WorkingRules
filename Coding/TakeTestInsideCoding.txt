@@ -1,0 +1,4 @@
+    When coding and before taken project outside project:
+  need run testing(     stack test && stack ghci 
+                            or 
+                        stack build && stack ghci)
